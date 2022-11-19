@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fc5c2c69.css",
+    "main.js": "/static/js/main.c4b82d47.js",
+    "static/media/bryn.jpg": "/static/media/bryn.de2235f3dbad36628360.jpg",
+    "static/media/kurkure.jpg": "/static/media/kurkure.502375fd939d9d473d1c.jpg",
+    "static/media/noodle.jpg": "/static/media/noodle.b9020164c84120883aae.jpg",
+    "static/media/lay.jpg": "/static/media/lay.b66137f630a275788384.jpg",
+    "index.html": "/index.html",
+    "main.fc5c2c69.css.map": "/static/css/main.fc5c2c69.css.map",
+    "main.c4b82d47.js.map": "/static/js/main.c4b82d47.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc5c2c69.css",
+    "static/js/main.c4b82d47.js"
+  ]
+}
